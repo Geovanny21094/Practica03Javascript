@@ -98,9 +98,6 @@ function agregar() {
 	}
 
 
-
-
-
 	suma.onclick = function (e) {
 		numero1 = resultado.textContent;
 		operacion = "+";
