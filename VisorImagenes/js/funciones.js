@@ -33,6 +33,13 @@ function muestraImagen(){
      window.document.getElementById("imagen").innerHTML =texto;
     
 }
+
+
+
+
+
+
+
 function validaPosicion(){
     //Verfica que este en la ultima imagen para deshabilitar el boton siguiente
     if(posicion==4){
