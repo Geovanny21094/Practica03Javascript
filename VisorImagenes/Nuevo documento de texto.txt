@@ -1,0 +1,36 @@
+ body{
+                margin: 30px 200px;
+                align-self: center;
+            }
+
+
+            table{
+                margin-left: 50px;
+                text-align: center;
+                width: auto;
+                margin-top: 20px;
+               
+            }
+
+
+            img{
+                width: 220px;
+            }
+
+
+
+#imagen {
+    text-align: center;
+    border: solid;
+    width: 310px;
+    color: black;
+}
+             
+           
+            button{
+                
+                width: 70px;
+                height: 25px;
+                text-align: center;
+                font-family: 'Courier New', Courier, monospace;
+            }
